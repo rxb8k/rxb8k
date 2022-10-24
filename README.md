@@ -20,3 +20,7 @@
 + 🎓 인하대학교 정보통신공학과 재학 `2018~`
 
 + 🦁 멋쟁이사자처럼 인하대학교 9기 `2021` 및 10기 Back-end 운영진 `2022~`
+
+<br/>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=rxb8k&show_icons=true&theme=default)
